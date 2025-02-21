@@ -23,5 +23,3 @@
 * Separation of Concerns
 * Document Your Code
 * Clean Code At All Costs
-* TDD (Test Driven Development)
-* BDD (Behavior Driven Development)
